@@ -1,0 +1,11 @@
+<library path="calibration_utils">
+    <class
+    name="calibration_utils/CalibrationPanel"
+    type="calibration_utils::CalibrationPanel"
+    base_class_type="rviz_common::Panel"
+    >
+    <description>
+        rviz panel plugin for calibrating sensor positions
+    </description>
+    </class>
+</library>
